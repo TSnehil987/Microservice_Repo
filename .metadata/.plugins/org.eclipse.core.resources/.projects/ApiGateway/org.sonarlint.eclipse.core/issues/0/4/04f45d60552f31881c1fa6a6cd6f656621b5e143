@@ -1,0 +1,7 @@
+
+s
+java:S2094 "BRemove this empty class, write its code or make it an "interface".(¦Á¦¼ýÿÿÿÿH’RMINORZ
+CODE_SMELL
+[
+java:S1172:"*Remove this unused method parameter "err".(èÑ—àÿÿÿÿÿH“RMAJORZ
+CODE_SMELL
